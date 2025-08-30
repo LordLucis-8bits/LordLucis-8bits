@@ -47,11 +47,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker--Compose-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-CB3837?style=for-the-badge&logo=gitlab&logoColor=white)
+![Render](https://img.shields.io/badge/Render-FF5C5C?style=for-the-badge&logo=render&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![WSL](https://img.shields.io/badge/WSL-4C4C4C?style=for-the-badge&logo=windows&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ---
 
 ### 📋 Metodologias & Boas Práticas
