@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Allyson Oliveira</h1>
+<h1 align="center">👋 Olá, meu nome é Allyson do Nascimento Oliveira</h1>
 
 <p align="center">
   💻 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> <br>
