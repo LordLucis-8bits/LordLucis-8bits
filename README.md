@@ -3,7 +3,9 @@
 <p align="center">
   💻 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> <br>
   🚀 Desenvolvedor Back-end e DevOps <br>
-  📚 21 anos | Focado em evoluir diariamente com <strong>Java</strong>, <strong>Node.js</strong>, <strong>Spring Boot</strong>, <strong>Docker</strong>, <strong>React</strong> e <strong>Next.js</strong> 
+  📚 21 anos | Focado em evoluir diariamente com <strong>Java</strong>, <strong>Node.js</strong>, <strong>Spring Boot</strong>, <strong>Docker</strong>,
+<strong>Nest.js</strong>
+<strong>React</strong> e <strong>Next.js</strong> 
 </p>
 
 ---
@@ -20,7 +22,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -31,7 +32,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
 
 #### 🔐 APIs & Segurança
