@@ -1,13 +1,12 @@
 <h1 align="center">👋 Olá, meu nome é Allyson do Nascimento Oliveira</h1>
 
 <p align="center">
-  💻 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> <br>
+  💻 Graduado de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
   🚀 Desenvolvedor Back-end e DevOps <br>
   📚 21 anos | Focado em evoluir diariamente com <strong>Java</strong>, <strong>Node.js</strong>, <strong>Spring Boot</strong>, <strong>Docker</strong>,
 <strong>Nest.js</strong>,
 <strong>React</strong> e <strong>Next.js</strong> 
 </p>
-
 ---
 
 ### 🧠 Tecnologias que já pratiquei
@@ -32,6 +31,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
 
 #### 🔐 APIs & Segurança
