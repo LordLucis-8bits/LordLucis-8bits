@@ -8,6 +8,7 @@
 <strong>React</strong> e <strong>Next.js</strong> 
 </p>
 
+
 ### 🧠 Tecnologias que já pratiquei
 
 #### 💻 Linguagens & Frameworks
