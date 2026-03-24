@@ -7,7 +7,6 @@
 <strong>Nest.js</strong>,
 <strong>React</strong> e <strong>Next.js</strong> 
 </p>
----
 
 ### 🧠 Tecnologias que já pratiquei
 
