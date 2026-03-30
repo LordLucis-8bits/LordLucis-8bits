@@ -3,7 +3,7 @@
 <p align="center">
   💻 Graduado de <strong>Análise e Desenvolvimento de Sistemas</strong><br>
   🚀 Desenvolvedor Back-end e DevOps <br>
-  📚 21 anos | Focado em evoluir diariamente com <strong>Java</strong>, <strong>Node.js</strong>, <strong>Spring Boot</strong>, <strong>Docker</strong>,
+  📚 22 anos | Focado em evoluir diariamente com <strong>Java</strong>, <strong>Node.js</strong>, <strong>Spring Boot</strong>, <strong>Docker</strong>,
 <strong>Nest.js</strong>,
 <strong>React</strong> e <strong>Next.js</strong> 
 </p>
